@@ -1,6 +1,6 @@
 #**UCSD Guardian Data Visualization Section**
 
-#####Welcome to the section of the Guardian, the UCSD official newspaper, that works on visualization data. Our goal is to great visualizations that acurately represent the data whilst also providing story. 
+#####Welcome to the section of the Guardian, the UCSD official newspaper, that works on visualizing data. Our goal is to great visualizations that acurately represent data whilst also providing story. 
 
 #####**Tools We Use:**
   * Code is done primarily Python
