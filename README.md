@@ -23,5 +23,9 @@
 * 1. Colors: 
   * Keep in mind color scheme for newspaper print and readers who may be colorblind. 
   * The Tableau 20 has lists of color schemes for different situations. Link here: http://public.tableau.com/profile/chris.gerrard#!/vizhome/TableauColors/ColorPaletteswithRGBValues
-* 2. TBD: 
+* 2. *To be continued*
+
+
+#####**Training:**
+* *To be continued*
 
